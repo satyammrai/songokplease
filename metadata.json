@@ -1,0 +1,6 @@
+{
+  "name": "Safar Beats - Bus, Car & Bike Music Worlds",
+  "description": "A high-fidelity cinematic vehicle-themed music streaming platform celebrating Indian bus drivers, car cruisers, and bike riders with road acoustics and ambient engine soundscapes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
